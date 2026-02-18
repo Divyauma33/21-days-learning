@@ -1,0 +1,30 @@
+what is variable?
+ A variable is a container that stores data.
+   datatype variablename=value;
+
+ Types of data:
+   1.primitive Data Types
+   2.Non primitive Data types.
+
+ 1.primitive data types:
+    1.integer
+    2.float
+    3.double
+    4.character
+    5.Boolean  
+
+ 2.Non primitive data types:
+    1.String
+    2.Array
+    3.Classes and object.
+
+ Tpye Casting:
+    Type casting means converting one data type into another.
+
+convert int into double:
+    int a=10;
+    double b=a;
+
+convert double into int:
+    double c=99.8;
+    int d=(int)c;
