@@ -1,0 +1,9 @@
+What ia Operator?
+   An Operator is a symbol that performs an operation on variables or values.
+
+Types of operator:
+     1.Arithmetic:
+     2.Relational
+     3.Logical
+     4.Assignment
+     5.Increment and decrement.
