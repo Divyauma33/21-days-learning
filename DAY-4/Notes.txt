@@ -1,0 +1,27 @@
+What is Scanner?
+   Scanner is a class in java used to take input from keyboard.
+
+How to use scanner:
+Step 1: Import
+   import java.util.Scanner;
+Step 2: Create Object
+   Scanner sc=new Scanner(System.in);
+Step 3:Take input
+   For integer-> int a=sc.nextInt();
+   For double->  double b=sc.nextDouble();
+   For char-> char c=sc.next();
+   For String->String d=sc.nextLine();
+
+ next() -> Stops at space
+ nextLine() -> Reads full nextLine
+ Example:if input=New Lesson
+  next() -> new
+  nextLine() -> New Lesson
+
+Mistakes:
+    int age=sc.nextInt();
+    String name=sc.nextLine();
+
+    It may skip input
+    So, add one extra line,
+        sc.nextLine();            
