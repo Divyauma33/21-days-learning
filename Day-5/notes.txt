@@ -1,0 +1,50 @@
+Decision Making in Java
+1️. What is Decision Making?
+Decision making allows a program to:
+  1.Choose between options
+  2.Execute code based on conditions
+  3.Make logical decisions
+Used in:
+    ATM systems
+    Login systems
+    Grade calculation
+    Admission systems
+    Banking software
+2️. if Statement
+  Definition:
+    Used when we want to execute code only if condition is true.
+
+3.if-else Statement:
+    Used when we have two possible outcomes.
+
+    if (condition) {
+    // true block
+    } else {
+    // false block
+    }
+
+4.if else if ladder:
+    Used when mutliple condition are checked.
+    
+    if (condition1) {
+    }
+    else if (condition2) {
+    }
+    else if (condition3) {
+    }
+    else {
+    }
+    
+
+5.Nested if:
+    An if statement inside another if stetement.
+
+    if(condition){
+        if(condition){
+
+        }else{
+
+        }
+    }  else{
+
+    }      
