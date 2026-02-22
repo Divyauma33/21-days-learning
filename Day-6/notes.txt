@@ -1,0 +1,56 @@
+What is Switch Statement?
+ Definition:
+
+Switch is a decision-making statement used to select one option from multiple fixed choices.
+
+It is cleaner than multiple if-else if when checking:
+
+Menu options
+
+Fixed values
+
+User choices
+
+Days, months, operators
+
+2️. Syntax of Switch:
+
+switch (expression) {
+
+    case value1:
+        // code
+        break;
+
+    case value2:
+        // code
+        break;
+
+    default:
+        // runs if no case matches
+}
+
+Important Rules:
+
+1. Expression must return:
+
+int
+
+char
+
+String (Java 7+)
+
+2. break is very important
+3. default is optional but recommended
+4. Case values must be constant
+
+What is a Loop?
+ Definition:
+
+A loop is used to execute a block of code repeatedly until a condition becomes false.
+
+Instead of writing same code multiple times, we use loops.
+
+What is a for Loop?
+ Definition:
+
+A for loop is used to repeat a block of code a fixed number of times.
