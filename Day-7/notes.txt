@@ -1,0 +1,28 @@
+While loop
+ Definition:
+    A While loop repeats a block of code as long as the condition is true.
+    Used when we don't know exactly how many times it will run.
+
+ Syntax:
+    while(condition){
+
+    }  
+
+How it Works:
+    Check condition
+    If True -> execute
+    Update variable
+    Repeat  
+
+Do-While loop:
+ Definition:
+    A do while loop executes the code at least once,even if condition is false.
+
+Syntax:
+
+do{
+
+}while(condition);
+
+ 1. Executes first,check later
+ 2.Runs at least once.
