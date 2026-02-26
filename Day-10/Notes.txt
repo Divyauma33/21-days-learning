@@ -1,0 +1,36 @@
+What is a String?
+ Definition
+
+A String is a sequence of characters.
+Index starts from 0
+Last index = length - 1
+
+length() Method:
+🔹 What It Does
+
+Returns total number of characters in the string.
+
+charAt(index):
+🔹 What It Does
+
+Returns character at a specific index.
+
+substring():
+
+🔹 What It Does
+
+Extracts part of a string.
+  Start index is INCLUDED 
+  End index is EXCLUDED 
+
+Comparing Strings :
+ equals()
+
+Checks content equality.
+
+Trimming Spaces
+
+ trim()
+
+Removes extra spaces.
+
