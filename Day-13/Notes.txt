@@ -1,0 +1,30 @@
+What is method?
+    A block of code that performs a specific task and can be reused.
+
+Type 1:
+    No Return Type + No Parameter
+    syntax:
+        static void MethodName(){
+            //code
+        }
+
+Type 2:
+    No return type + With Parameter
+    syntax:
+        static void MethodName(Datatype variable){
+            //code
+        }
+
+Type 3:
+    Return type + No Parameter
+    syntax:
+        static datatype Methodname(){
+            return value;
+        } 
+
+Type 4:
+    Return Type + With Parameter
+    syntax: 
+        static datatype Mehtodname(dataype variable){
+            return value;
+        }
